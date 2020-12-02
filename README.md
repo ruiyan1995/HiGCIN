@@ -33,16 +33,13 @@ If you wish to refer to the results of HiGCIN, please use the following BibTeX e
   author={Yan, Rui and Xie, Lingxi and Tang, Jinhui and Shu, Xiangbo and Tian, Qi},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2020},
-  volume={},
-  number={},
-  pages={1-1},
   doi={10.1109/TPAMI.2020.3034233}
 }
 ```
 
 
 ## Update Records
-12/2/2020: Only Volleyball Dataset is supported now.
+12/3/2020: Only Volleyball Dataset is supported now.
 
 ## Todo
 - Support Collective Dataset
