@@ -42,7 +42,7 @@ If you wish to refer to the results of HiGCIN, please use the following BibTeX e
 12/3/2020: Only Volleyball Dataset is supported now.
 
 ## Todo
-- Support Collective Dataset
+- Support Collective Activity Dataset
 
 
 ## Acknowledgments
