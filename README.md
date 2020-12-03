@@ -15,7 +15,8 @@ pip install torch torchvision
 ### Preprocess datasets
 Download two datasets (*i.e.*, [Volleyball Dataset](http://vml.cs.sfu.ca/wp-content/uploads/volleyballdataset/volleyball.zip) and [Collective Activity Dataset](http://www.eecs.umich.edu/vision/activity-dataset.html)) and unzip them to **'./dataset/VD/videos'** and **'./dataset/CAD/videos'**, respectively. Then run the following command:
 ```
-bash pre_script.sh
+bash pre_script.sh 'VD'
+bash pre_script.sh 'CAD'
 ```
 
 Alternatively, you can also direct download the personal tracklets from [here](https://note.youdao.com/) and put them in **'./dataset/VD/imgs'** and **'./dataset/CAD/imgs'**, respectively.
