@@ -5,7 +5,7 @@ Pytorch implementation of [HiGCIN: Hierarchical Graph-based Cross Inference Netw
 
 ## Get started
 ### Prerequisite
-Our approach is tested on only Ubuntu with GPU and it needs at least 16G GPU memory. The neccseearay packages can be install by following commonds:
+Our approach is tested on only Ubuntu with GPU and it needs at least 16G GPU memory. The neccseearay packages can be installed by the following commonds:
 ```
 conda create -n HiGCIN python=3.6
 conda activate HiGCIN
@@ -13,7 +13,7 @@ pip install cmake dlib scikit-image sklearn h5py
 pip install torch torchvision
 ```
 ### Preprocess datasets
-Download two datasets (*i.e.*, [Volleyball Dataset](http://vml.cs.sfu.ca/wp-content/uploads/volleyballdataset/volleyball.zip) and [Collective Activity Dataset](http://www.eecs.umich.edu/vision/activity-dataset.html)) and unzip them to **'./dataset/VD/videos'** and **'./dataset/CAD/videos'**, respectively. Then run the following command:
+Download two datasets (*i.e.*, [Volleyball Dataset](http://vml.cs.sfu.ca/wp-content/uploads/volleyballdataset/volleyball.zip) and [Collective Activity Dataset](http://www.eecs.umich.edu/vision/activity-dataset.html)) and unzip them to **'./dataset/VD/videos'** and **'./dataset/CAD/videos'**, respectively. Then run the following commands:
 ```
 bash pre_script.sh 'VD'
 bash pre_script.sh 'CAD'
