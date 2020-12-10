@@ -48,3 +48,6 @@ If you wish to refer to the results of HiGCIN, please use the following BibTeX e
 
 ## Acknowledgments
 Thanks to the pytorch version implementation of Non-Local from [https://github.com/AlexHex7/Non-local_pytorch](https://github.com/AlexHex7/Non-local_pytorch)
+
+## Contact Information
+Feel free to create a pull request or contact me by Email = ["ruiyan", at, "njust", dot, "edu", dot, "cn"], if you find any bugs. For further information about me, welcome to my [homepage](https://ruiyan1995.github.io/).
