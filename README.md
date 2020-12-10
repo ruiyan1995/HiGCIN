@@ -19,7 +19,7 @@ bash pre_script.sh 'VD'
 bash pre_script.sh 'CAD'
 ```
 
-Alternatively, you can also direct download the personal tracklets from [here](https://pan.baidu.com/s/1Oi7Mpz8YhS9dmAC0JWziiA)(code is **o8fy**) and put them in **'./dataset/VD/imgs'** and **'./dataset/CAD/imgs'**, respectively.
+Alternatively, you can also direct download the personal tracklets from [here](https://pan.baidu.com/s/1Oi7Mpz8YhS9dmAC0JWziiA) (code is **o8fy**) and put them in **'./dataset/VD/imgs'** and **'./dataset/CAD/imgs'**, respectively.
 ### Train a Standard Model from Scratch
 ```
 bash traintest_script.sh
